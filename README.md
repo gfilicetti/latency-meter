@@ -1,6 +1,6 @@
 # Latency Meter
 ## Introduction
-The latency meter tool will continuously curl to an HTTP endpoint and show the measure roundtrip time (or other metrics as desired).
+The latency meter tool will continuously curl to an HTTP endpoint and show the measured roundtrip time (or other metrics as desired).
 
 ## Description
 There are two scripts provided:
